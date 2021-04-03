@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="internal_storage">Internal Storage</string>
+    <string name="cloud">Cloud</string>
+    <string name="remote">Remote</string>
+    <string name="ftp_server">FTP Server</string>
+    <string name="sftp_server">SFTP Server</string>
+    <string name="app_name">VS File Explorer</string>
+    <string name="categories">Categories</string>
+</resources>
